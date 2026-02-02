@@ -39,5 +39,25 @@
 	{
 		"pack_id" : "a7d9327e-b462-47f5-a582-f69f731d0907",
 		"version" : [ 3, 6, 2 ]
+	},
+	
+	{
+		"pack_id" : "47738601-74fe-4a9c-a2e9-964954aa6cb1",
+		"version" : [ 0, 0, 4 ]
+	},
+	
+	{
+		"pack_id" : "9bdc076f-9f82-4e77-9176-fc8d4d890077",
+		"version" : [ 0, 0, 1 ]
+	},
+	
+	{
+		"pack_id" : "9b067e51-c4b6-4e5f-b3d8-ae518d1e2253",
+		"version" : [ 0, 0, 1 ]
+	},
+	
+	{
+		"pack_id" : "f64b9cd6-c979-45d0-b79a-421c7b7f5cc3",
+		"version" : [ 0, 4, 0 ]
 	}
 ]
